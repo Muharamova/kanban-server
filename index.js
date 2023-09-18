@@ -72,4 +72,3 @@ app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
 
-//mongodb+srv://Admin:R4dmHscpn1M51t7e@cluster0.slhycaz.mongodb.net/
